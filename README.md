@@ -7,7 +7,7 @@
 Было добавлено определение вторичной структуры РНК, а также извлечение координат Cβ и Cγ атомов аминокислотных остатков.
 
 **Оригинальный CoPRA**:  
-[https://github.com/hanrthu/CoPRA/tree/main](https://github.com/hanrthu/CoPRA/tree/main)
+[https://github.com/hanrthu/CoPRA/tree/main](https://github.com/hanrthu/CoPRA/tree/main) В частности, был модифицирован скрипт `models\components\coformer.py`.
 
 **Оригинальная статья**:  
 @article{han2024copra,
